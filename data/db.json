@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODkvYXV0aCIsIm5iZiI6IjE1MTYyMzkwMjIiLCJmaXJzdG5hbWUiOiJIb3VkYSIsImxhc3RuYW1lIjoiRUwgQU1SQU5JIiwiZW1haWwiOiJob3VkYWFtcmFuaTM2NkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.kHblLk7ujRMIL7B463-oipMsSyG21Pz9oCrqUt23jLs"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODkvYXV0aCIsIm5iZiI6IjE1MTYyMzkwMjIiLCJmaXJzdG5hbWUiOiJIb3VkYSIsImxhc3RuYW1lIjoiRUwgQU1SQU5JIiwiZW1haWwiOiJob3VkYWFtcmFuaTM2NkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.lmlYDvmoKO_aSXhxFRAakqhRbCkn61K1wv2BhXD2Uag"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODkvYXV0aCIsIm5iZiI6IjE1MTYyMzkwMjIiLCJmaXJzdG5hbWUiOiJIb3VkYSIsImxhc3RuYW1lIjoiRUwgQU1SQU5JIiwiZW1haWwiOiJob3VkYWFtcmFuaTM2NkBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.9WuQdyLEb2j7cqrxQxieVVKe_VuYOqUg0wlRS4vrYZU"
+    }
+  ],
+  "products": [
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "price": 600,
+      "checked": true
+    },
+    {
+      "id": "0308",
+      "name": "j",
+      "price": "0 m",
+      "checked": false
+    },
+    {
+      "name": "smart",
+      "price": 0,
+      "checked": false,
+      "id": "6kVA5c2"
+    }
+  ]
+}
